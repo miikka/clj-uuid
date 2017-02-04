@@ -1,4 +1,4 @@
-(defproject org.clojars.miikka/clj-uuid "0.1.7-SNAPSHOT"
+(defproject org.clojars.miikka/clj-uuid "0.1.7"
   :description  "A Clojure library for generation and utilization of
                 UUIDs (Universally Unique Identifiers) as described by
                 RFC-4122. This library extends the standard Java UUID class
